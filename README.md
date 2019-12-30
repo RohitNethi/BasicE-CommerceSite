@@ -1,5 +1,4 @@
 # Simple E-CommerceSite
-A project for my Network Based Application Development class using MVC Framework in Java.
 
 //Note-
 //FinalProject-1.war contains database address of amazon RDBMS which is not currently active.
